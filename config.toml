@@ -54,7 +54,6 @@ defaultContentLanguageInSubdir = false
 [params]
   since = "1994"             # Site creation time
   rssFullContent = true      # set true to use full content instead of summary
-  rssLimit = 100
   # site info (optional)
   keywords = ["Hugo", "theme","den"]
   description = "自留地"
