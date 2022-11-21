@@ -2,7 +2,7 @@
 # ---- General Settings --------------- #
 # ------------------------------------- #
 baseURL = "https://jokiezhang.github.io/thoughts/"
-title = "Den"
+title = "麦田守望者"
 theme = "den"
 #enableRobotsTXT = true       # generate robots.txt
 enableEmoji = true           # use emoji support
@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
   pages = "/:slug/"
 
 [author]                     # required
-  name = "Jane Doe"
+  name = "@JokerZhang"
 
 [sitemap]                    # required
   changefreq = "weekly"
@@ -52,12 +52,12 @@ defaultContentLanguageInSubdir = false
 # ------------------------------------- #
 
 [params]
-  since = "2017"             # Site creation time
+  since = "1994"             # Site creation time
   rssFullContent = true      # set true to use full content instead of summary
 
   # site info (optional)
   keywords = ["Hugo", "theme","den"]
-  description = "A simple theme for Hugo"
+  description = "自留地"
   logoTitle = "Den" # shown on top-left, default: title
   siteLogoImage = "images/globe.svg"     # shown besides logoTitle
   # headerTitle = "Den"                   # default: title
@@ -144,15 +144,15 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
   [languages.zh-cn.params]
-    description = "一个简单的布局"
+    description = "你不要和任何人谈起任何事，否则你会想念起每一个人来"
 
   [[languages.zh-cn.menu.main]]
-    name = "布局"
+    name = "笔记"
     weight = 10
     identifier = "notes"
     url = "category/notes/"
   [[languages.zh-cn.menu.main]]
-    name = "展示"
+    name = "合集"
     weight = 20
     identifier = "demos"
     url = "category/demos/"
