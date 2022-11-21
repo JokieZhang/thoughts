@@ -1,7 +1,7 @@
 # ------------------------------------- #
 # ---- General Settings --------------- #
 # ------------------------------------- #
-baseURL = "/"
+baseURL = "https://jokiezhang.github.io/thoughts/"
 title = "Den"
 theme = "den"
 #enableRobotsTXT = true       # generate robots.txt
