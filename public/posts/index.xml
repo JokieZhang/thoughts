@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 麦田守望者</title>
+    <link>https://jokiezhang.github.io/thoughts/posts/</link>
+    <description>Recent content in Posts on 麦田守望者</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 21 Nov 2022 18:03:58 +0800</lastBuildDate><atom:link href="https://jokiezhang.github.io/thoughts/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://jokiezhang.github.io/thoughts/2022/11/21/test/</link>
+      <pubDate>Mon, 21 Nov 2022 18:03:58 +0800</pubDate>
+      
+      <guid>https://jokiezhang.github.io/thoughts/2022/11/21/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Now I Am 29 Years Old</title>
+      <link>https://jokiezhang.github.io/thoughts/2022/11/21/now-i-am-29-years-old/</link>
+      <pubDate>Mon, 21 Nov 2022 17:50:30 +0800</pubDate>
+      
+      <guid>https://jokiezhang.github.io/thoughts/2022/11/21/now-i-am-29-years-old/</guid>
+      <description>29岁</description>
+    </item>
+    
+  </channel>
+</rss>

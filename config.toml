@@ -108,35 +108,6 @@ defaultContentLanguageInSubdir = false
   weight = 100
 
 
-[languages.en]
-  languageCode = "en"
-  languageName = "English"
-  contentDir = "content/en"
-  weight = 1
-
-  [[languages.en.menu.main]]
-    name = "Notes"
-    weight = 10
-    identifier = "notes"
-    url = "category/notes/"
-  [[languages.en.menu.main]]
-    name = "Demos"
-    weight = 20
-    identifier = "demos"
-    url = "category/demos/"
-
-  [[languages.en.menu.social]]
-    name = "GitHub"
-    weight = 10
-    identifier = "github"
-    url = "https://github.com/shaform/hugo-theme-den/"
-
-  [[languages.en.menu.links]]
-    name = "About Me"
-    weight = 10
-    identifier = "about-me"
-    url = "https://github.com/shaform/hugo-theme-den/"
-
 [languages.zh-cn]
   languageCode = "zh-cn"
   languageName = "简体中文"
