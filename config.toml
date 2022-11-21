@@ -30,7 +30,7 @@ googleAnalytics = ""         # UA-XXXXXXXX-X
 
 # language support # en / zh-tw / other... translations present in i18n/
 defaultContentLanguage = "zh-cn"           # Default language to use
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 # Links format
 [permalinks]
