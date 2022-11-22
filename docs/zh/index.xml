@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>麦田守望者</title>
-    <link>https://jokiezhang.github.io/thoughts/zh/</link>
+    <link>/zh/</link>
     <description>Recent content on 麦田守望者</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Tue, 22 Nov 2022 10:52:12 +0800</lastBuildDate>
     
-    <atom:link href="https://jokiezhang.github.io/thoughts/zh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>29岁，与梭罗对话</title>
-      <link>https://jokiezhang.github.io/thoughts/zh/2022/11/22/now-i-am-29-years-old/</link>
+      <link>/zh/2022/11/22/now-i-am-29-years-old/</link>
       <pubDate>Tue, 22 Nov 2022 10:52:12 +0800</pubDate>
       
-      <guid>https://jokiezhang.github.io/thoughts/zh/2022/11/22/now-i-am-29-years-old/</guid>
+      <guid>/zh/2022/11/22/now-i-am-29-years-old/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
