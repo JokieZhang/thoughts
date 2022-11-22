@@ -3,12 +3,12 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 tags: []
-categories: []
+categories: ["articles"]
 authors:
 - "Arthur"
 ---
 
-{{ <audio src="autios/here_after_us.mp3" caption="《后来的我们 - 五月天》" >}}
+{{<audio src="autios/here_after_us.mp3" caption="《后来的我们 - 五月天》" >}}
 
 ## 前言
 

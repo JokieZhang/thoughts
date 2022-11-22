@@ -6,19 +6,41 @@
     <description>Recent content on 麦田守望者</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 22 Nov 2022 10:52:12 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Nov 2022 16:48:47 +0800</lastBuildDate>
     
     <atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>29岁，与梭罗对话</title>
+      <title>关于</title>
+      <link>/zh/about/</link>
+      <pubDate>Tue, 22 Nov 2022 16:48:47 +0800</pubDate>
+      
+      <guid>/zh/about/</guid>
+      <description>《后来的我们 - 五月天》 ✋Hi，我是春生 是一个儿子、兄弟、好朋友 也是一个农民、诗人、程序员</description>
+      <content:encoded><![CDATA[<figure >
+    <audio controls preload="metadata">
+        
+        <source src="/autios/here_after_us.mp3" type="audio/mpeg">
+    </audio>
+    <i><figcaption>《后来的我们 - 五月天》</figcaption></i>
+</figure>
+<h2 id="hi我是春生httpsblogvmaitiancom">✋Hi，我是<a href="https//blog.vmaitian.com">春生</a></h2>
+<p>是一个儿子、兄弟、好朋友
+也是一个农民、诗人、程序员</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>29岁，与梭罗相遇</title>
       <link>/zh/2022/11/22/now-i-am-29-years-old/</link>
       <pubDate>Tue, 22 Nov 2022 10:52:12 +0800</pubDate>
       
       <guid>/zh/2022/11/22/now-i-am-29-years-old/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
+      <description>我试图把重拾《瓦尔登湖》解释为一种巧合。 29岁，一场平凡的相遇。</description>
+      <content:encoded><![CDATA[<p>我试图把重拾《瓦尔登湖》解释为一种巧合。
+29岁，一场平凡的相遇。</p>
+]]></content:encoded>
     </item>
     
   </channel>
