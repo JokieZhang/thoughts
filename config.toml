@@ -2,7 +2,7 @@
 # ---- General Settings --------------- #
 # ------------------------------------- #
 #baseURL = "https://jokiezhang.github.io/thoughts/"
-baseURL = ""
+baseURL = "/"
 title = "麦田守望者"
 theme = "den"
 #enableRobotsTXT = true       # generate robots.txt
@@ -31,7 +31,7 @@ googleAnalytics = ""         # UA-XXXXXXXX-X
 
 # language support # en / zh-tw / other... translations present in i18n/
 defaultContentLanguage = "zh"           # Default language to use
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 # Links format
 [permalinks]
