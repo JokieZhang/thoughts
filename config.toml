@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = true
   # site info (optional)
   keywords = ["Sci", "&&","Art"]
   description = "你千万别跟任何人谈任何事。你只要一谈起，就会想念起每一个人来。"
-  logoTitle = "Ray·Catcher" # shown on top-left, default: title
+  logoTitle = "Rye·Catcher" # shown on top-left, default: title
   siteLogoImage = "images/globe.svg"     # shown besides logoTitle
   # headerTitle = "Den"                   # default: title
   headerImage = "images/background.jpg"
@@ -151,22 +151,22 @@ defaultContentLanguageInSubdir = true
     description = "你千万别跟任何人谈任何事。你只要一谈起，就会想念起每一个人来。"
 
   [[languages.zh.menu.main]]
-    name = "科技"
+    name = "·技术·"
     weight = 10
     identifier = "notes"
     url = "category/notes/"
   [[languages.zh.menu.main]]
-    name = "人文"
+    name = "·艺术·"
     weight = 20
     identifier = "articles"
     url = "category/articles/"
   [[languages.zh.menu.main]]
-    name = "·科技人文之外·"
+    name = "·之外·"
     weight = 30
     identifier = "others"
     url = "category/others/"
   [[languages.zh.menu.main]]
-    name = "关于我"
+    name = "关于"
     weight = 40
     identifier = "about"
     url = "category/about/"
