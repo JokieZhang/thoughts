@@ -1,9 +1,11 @@
 ---
 title: "关于"
 date: 2022-11-22T16:48:47+08:00
+menu: "main"
+weight: 100
 draft: false
 tags: []
-categories: ["about"]
+rss_ignore: true
 
 ---
 
