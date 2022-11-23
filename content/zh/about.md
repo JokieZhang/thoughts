@@ -23,12 +23,8 @@ Hi,我是[春生](https//blog.vmaitian.com)
 
 ## 春生谈
 
-我喜欢对话
+我痴迷于对话，与朋友对话，与自己对话，与世界对话
 
-与朋友对话
-
-与自己对话
-
-与世界对话
+让我们一起坐下来谈谈
 
 ![fly-kids](/images/about_footer.jpg)
