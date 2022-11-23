@@ -8,7 +8,7 @@ authors:
 - "Arthur"
 ---
 
-{{<audio src="audios/canon_in_major_d.mp3" caption="《D大调·Canon》" >}}
+{{<audio src="audios/canon_in_major_d.mp3" caption="《D大调·Canon》" autoplay="autoplay">}}
 
 ## 前言
 
