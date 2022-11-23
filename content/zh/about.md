@@ -9,7 +9,7 @@ rss_ignore: true
 
 ---
 
-{{<audio autoplay="yes" src="audios/canon_in_major_d.mp3" caption="《D大调·Canon》">}}
+{{<audio autoplay="autoplay" src="audios/canon_in_major_d.mp3" caption="《D大调·Canon》">}}
 
 
 
