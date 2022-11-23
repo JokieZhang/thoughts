@@ -65,7 +65,7 @@ defaultContentLanguageInSubdir = true
   headerImage = "images/background.jpg"
   showAuthorCard = true # Whether to show author information below the article
 
-  showMenuLanguages = true
+  showMenuLanguages = false
 
   autoLoadComments = false # auto load comment when scrolling down
 

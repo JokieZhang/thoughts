@@ -24,4 +24,3 @@ authors:
 
 > 1. aaa
 > 2. bbb
-
