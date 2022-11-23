@@ -30,3 +30,5 @@ Hi,我是[春生](https//blog.vmaitian.com)
 与自己对话
 
 与世界对话
+
+![fly-kids](images/about_footer.jpg)
