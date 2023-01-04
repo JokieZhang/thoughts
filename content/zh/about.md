@@ -15,7 +15,7 @@ rss_ignore: true
 
 ## 春生
  
-Hi,我是[春生](https//blog.vmaitian.com)
+Hi,我是[春生](/zh/about/)
 
 一个儿子、兄弟、好朋友
 
@@ -23,8 +23,10 @@ Hi,我是[春生](https//blog.vmaitian.com)
 
 ## 春生谈
 
+谈天是我的一个爱好，是我建立博客的初心
+
 我痴迷于对话，与朋友对话，与自己对话，与世界对话
 
-让我们一起坐下来谈谈
+如果你不忙，让我们一起坐下来谈谈
 
 ![fly-kids](/images/about_footer.jpg)

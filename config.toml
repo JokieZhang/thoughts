@@ -117,7 +117,7 @@ defaultContentLanguageInSubdir = true
 
   [[languages.en.menu.main]]
     name = "Notes"
-    weight = 10
+    weight = 30
     identifier = "notes"
     url = "category/notes/"
   [[languages.en.menu.main]]
@@ -126,10 +126,16 @@ defaultContentLanguageInSubdir = true
     identifier = "articles"
     url = "category/articles/"
   [[languages.en.menu.main]]
+    name = "Weekly"
+    weight = 10
+    identifier = "weekly"
+    url = "category/weekly/"
+  [[languages.en.menu.main]]
     name = "Others"
-    weight = 30
+    weight = 40
     identifier = "others"
     url = "category/others/"
+ 
  # [[languages.en.menu.main]]
  #   name = "About Me"
  #   weight = 40
@@ -153,19 +159,28 @@ defaultContentLanguageInSubdir = true
 
   [[languages.zh.menu.main]]
     name = "·技术·"
-    weight = 10
+    weight = 30
     identifier = "notes"
     url = "category/notes/"
   [[languages.zh.menu.main]]
-    name = "·艺术·"
+    name = "·文集·"
     weight = 20
     identifier = "articles"
     url = "category/articles/"
   [[languages.zh.menu.main]]
-    name = "·之外·"
-    weight = 30
+    name = "·不日记·"
+    weight = 10
+    identifier = "weekly"
+    url = "category/weekly/"
+  [[languages.zh.menu.main]]
+    name = "·影音·"
+    weight = 40
     identifier = "others"
     url = "category/others/"
+
+
+
+
 #  [[languages.zh.menu.main]]
 #    name = "关于"
 #    weight = 40
