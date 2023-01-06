@@ -23,14 +23,14 @@
   </url>
   
   <url>
-    <loc>/zh/tags/</loc>
+    <loc>/zh/posts/</loc>
     <lastmod>2023-01-06T21:10:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/zh/weekly/</loc>
+    <loc>/zh/tags/</loc>
     <lastmod>2023-01-06T21:10:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>/zh/weekly/weekly-01/</loc>
+    <loc>/zh/2023/01/06/weekly-1/</loc>
     <lastmod>2023-01-06T21:10:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -80,13 +80,6 @@
   
   <url>
     <loc>/zh/category/articles/</loc>
-    <lastmod>2022-11-22T10:52:12+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/zh/posts/</loc>
     <lastmod>2022-11-22T10:52:12+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

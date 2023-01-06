@@ -1,5 +1,5 @@
 ---
-title: "周刊 #0x01 : Weekly 01"
+title: "周刊 #0x01 : Weekly 1"
 date: 2023-01-06T21:10:14+08:00
 draft: false
 tags: ["周刊","weekly","2023"]
