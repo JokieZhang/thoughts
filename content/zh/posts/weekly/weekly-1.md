@@ -13,8 +13,7 @@ authors:
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-1/weekly-1-1.jpg"  />
-
+![preface](https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-1/weekly-1-1.jpg)
 ## 题辞
 
 今天是2023年1月8日，星期日，**守望者周刊**第1期发刊号。
