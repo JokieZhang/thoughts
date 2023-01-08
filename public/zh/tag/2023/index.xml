@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 麦田守望者</title>
-    <link>/zh/posts/</link>
-    <description>Recent content in Posts on 麦田守望者</description>
+    <title>2023 on 麦田守望者</title>
+    <link>/zh/tag/2023/</link>
+    <description>Recent content in 2023 on 麦田守望者</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 06 Jan 2023 21:10:14 +0800</lastBuildDate><atom:link href="/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 21:10:14 +0800</lastBuildDate><atom:link href="/zh/tag/2023/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>周刊 0x01 : Weekly 1</title>
       <link>/zh/2023/01/06/weekly-1/</link>
@@ -14,15 +14,6 @@
       
       <guid>/zh/2023/01/06/weekly-1/</guid>
       <description>《And The Winner Is》 这是守望者周刊（第 1 期），每周日发布。 题辞 今天是2023年1月8日，星期日，守望者周刊第1期发刊号。 本期周刊题辞选自美国作</description>
-    </item>
-    
-    <item>
-      <title>29岁，与梭罗相遇</title>
-      <link>/zh/2022/11/22/now-i-am-29-years-old/</link>
-      <pubDate>Tue, 22 Nov 2022 10:52:12 +0800</pubDate>
-      
-      <guid>/zh/2022/11/22/now-i-am-29-years-old/</guid>
-      <description>我试图把重拾《瓦尔登湖》解释为一种巧合。 29岁，一场平凡的相遇。</description>
     </item>
     
   </channel>
