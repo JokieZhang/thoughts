@@ -15,7 +15,7 @@ authors:
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-1/weekly-1-1.jpg"  />
+![](https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-1/weekly-1-1.jpg)
 
 ## 题辞
 
@@ -39,13 +39,13 @@ authors:
 
 我只好对她说：人生另一个半场，继续认真和幸福。
 
-<img src="https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-2.png" style="zoom:50%;" />
+![](https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-2.png)
 
 婚姻是生命中的大事，本周正好借机聊聊。
 
 一组有关婚姻的数字：
 
-<img src="https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-3.png" alt="anlyse" style="zoom:50%;" />
+![](https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-3.png)
 
 1. *15%*，我们熟知的“一夫一妻”制，在已知大大小小的人类文化社群中，占到社群数的15%【注意，不是人口总数】。
 2. *89%*，2003年联合国世界生育率报告指出，89%的人在49岁之前结婚。有些国家49岁前结婚的比例只有50%，有些国家将近100%。
@@ -56,17 +56,17 @@ authors:
 
 斯蒂芬妮•库兹（Stephanie Coontz）专门写了一本书**《Marriage, a History: How Love Conquered Marriage》**。
 
-<img src="https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-4.jpg" alt="marrage-a-history" style="zoom: 67%;" />
+![](https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-4.jpg)
 
 中文译本叫做《为爱成婚》
 
-<img src="https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-5.jpg" alt="marrage-a-history-cn" style="zoom: 25%;" />
+![](https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-5.jpg)
 
 作者以历史学家的角度梳理*婚姻*在人类文明中如何一路走来。
 
 整本书在史料的堆砌上稍显冗长，但不乏精彩论述，令人或拍案或莞尔。我选感兴趣的内容给大家分享：
 
-<img src="https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-6.jpeg" alt="early-marriage" style="zoom: 50%;" />
+![](https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-6.jpeg)
 
 早期的婚姻（占据了整个婚姻史很长的时间，到19世纪）存在几个特点：
 
@@ -74,7 +74,7 @@ authors:
 2. 婚姻的解除，在很长一段时间相当艰难的，官方认可的**离婚**有很高的门槛
 3. 单身~~狗~~是一种无法被人理解的存在，无论是出于个人经济的原因还是社会原因，单身一族都无法取得社会认同
 
-<img src="https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-7.jpg" alt="newly-marriage" style="zoom:33%;" />
+![](https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-7.jpg)
 
 要到19世纪，随着启蒙运动的兴起，个人意识觉醒，经济腾飞，再加上一些启蒙思想家**带节奏**，婚姻才一步步转变为今天的模样。
 
@@ -82,9 +82,9 @@ authors:
 
 1. 婚姻的缔结，权力从社会还给个人，个人有婚姻的自由（当事人可以出于家庭利益结婚，但这是他**个人意志**）
 2. 婚姻的解除，无论从离婚率（美国20世纪初已经超过了50%），还是**婚姻法**不断增加的婚后权利的保护条例来看，婚姻的解除都史无前例的放松
-3. 单身~~狗~~**依然**是一种无法被人理解的存在。但毫无疑问他们掌握了逻辑自洽的方式，很容易与自己和社会和解
+3. 单身~~狗~~**依然**是一种无法被人理解的存在。但毫无疑问他们掌握了逻辑自洽的方式，很容易与自己和社会和
 
-<img src="https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-8.jpg" style="zoom: 33%;" />
+![](https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-8.jpg)
 
 这种变化的本质在于:
 
@@ -110,7 +110,7 @@ authors:
 >
 > *人们越是希望在婚姻中达到个人幸福，就越是对“空虚”或不满意的关系怀着批判态度。*
 
-<img src="https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-10.jpg" style="zoom:33%;" />
+![](https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-10.jpg)
 
 这本书带给我一个新的角度，那就是：
 
@@ -137,7 +137,7 @@ authors:
 
 2、春节前的最后一周，超市一角
 
-<img src="https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-12.jpg" style="zoom:33%;" />
+![](https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-12.jpg)
 
 3、在北京度过两个春节，尝试（用孩子的笔体）写春联。今年回家，还是拟了一副。
 
@@ -167,13 +167,13 @@ authors:
 
 比如打工人年底在写**年终总结**：
 
-<img src="https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-15.png" style="zoom:50%;" />
+![](https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-15.png)
 
 比如用来探索人生的重大命题 doge：
 
-<img src="https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-16.png" style="zoom:50%;" />
+![](https://cdn.jsdelivr.net/gh/JokieZhang/vmaitian@master/weekly-2/weekly-2-16.png)
 
-总之，看起来可以用来做不少有趣的事！
+总之，看起来可以用来做不少有趣的事情！
 
 当然距离独立做一份完美的周刊我认为还很远：-）
 
