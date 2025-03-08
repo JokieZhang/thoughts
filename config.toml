@@ -171,7 +171,7 @@ defaultContentLanguageInSubdir = true
     name = "·系列·"
     weight = 20
     identifier = "weekly"
-    url = "category/weekly/"
+    url = "category/weekly"
  # [[languages.zh.menu.main]]
  #   name = "·影音·"
  #   weight = 40
