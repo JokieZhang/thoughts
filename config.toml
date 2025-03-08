@@ -122,12 +122,12 @@ defaultContentLanguageInSubdir = true
   #  url = "category/notes/"
   [[languages.en.menu.main]]
     name = "Articles"
-    weight = 20
+    weight = 30
     identifier = "articles"
     url = "category/articles/"
   [[languages.en.menu.main]]
     name = "Series"
-    weight = 10
+    weight = 20
     identifier = "weekly"
     url = "category/weekly/"
   #[[languages.en.menu.main]]
@@ -164,12 +164,12 @@ defaultContentLanguageInSubdir = true
  #   url = "category/notes/"
   [[languages.zh.menu.main]]
     name = "·杂记·"
-    weight = 20
+    weight = 30
     identifier = "articles"
     url = "category/articles/"
   [[languages.zh.menu.main]]
     name = "·系列·"
-    weight = 10
+    weight = 20
     identifier = "weekly"
     url = "category/weekly/"
  # [[languages.zh.menu.main]]
