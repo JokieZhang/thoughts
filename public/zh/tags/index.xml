@@ -2,32 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 麦田守望者</title>
-    <link>/zh/tags/</link>
+    <link>http://192.168.8.173:1313/zh/tags/</link>
     <description>Recent content in Tags on 麦田守望者</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 15 Jan 2023 11:10:14 +0800</lastBuildDate>
-    <atom:link href="/zh/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2023</title>
-      <link>/zh/tag/2023/</link>
-      <pubDate>Sun, 15 Jan 2023 11:10:14 +0800</pubDate>
-      <guid>/zh/tag/2023/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Weekly</title>
-      <link>/zh/tag/weekly/</link>
-      <pubDate>Sun, 15 Jan 2023 11:10:14 +0800</pubDate>
-      <guid>/zh/tag/weekly/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>周刊</title>
-      <link>/zh/tag/%E5%91%A8%E5%88%8A/</link>
-      <pubDate>Sun, 15 Jan 2023 11:10:14 +0800</pubDate>
-      <guid>/zh/tag/%E5%91%A8%E5%88%8A/</guid>
-      <description></description>
-    </item>
+    <atom:link href="http://192.168.8.173:1313/zh/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

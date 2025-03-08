@@ -115,26 +115,26 @@ defaultContentLanguageInSubdir = true
   contentDir = "content/en"
   weight = 2
 
-  [[languages.en.menu.main]]
-    name = "Notes"
-    weight = 30
-    identifier = "notes"
-    url = "category/notes/"
+  # [[languages.en.menu.main]]
+  #  name = "Notes"
+  #  weight = 30
+  #  identifier = "notes"
+  #  url = "category/notes/"
   [[languages.en.menu.main]]
     name = "Articles"
     weight = 20
     identifier = "articles"
     url = "category/articles/"
   [[languages.en.menu.main]]
-    name = "Weekly"
+    name = "Series"
     weight = 10
     identifier = "weekly"
     url = "category/weekly/"
-  [[languages.en.menu.main]]
-    name = "Others"
-    weight = 40
-    identifier = "others"
-    url = "category/others/"
+  #[[languages.en.menu.main]]
+  #  name = "Others"
+  #  weight = 40
+  #  identifier = "others"
+  #  url = "category/others/"
  
  # [[languages.en.menu.main]]
  #   name = "About Me"
@@ -157,26 +157,26 @@ defaultContentLanguageInSubdir = true
   [languages.zh.params]
     description = "你千万别跟任何人谈任何事。你只要一谈起，就会想念起每一个人来。"
 
+ # [[languages.zh.menu.main]]
+ #  name = "·技术·"
+ #   weight = 30
+ #   identifier = "notes"
+ #   url = "category/notes/"
   [[languages.zh.menu.main]]
-    name = "·技术·"
-    weight = 30
-    identifier = "notes"
-    url = "category/notes/"
-  [[languages.zh.menu.main]]
-    name = "·文集·"
+    name = "·杂记·"
     weight = 20
     identifier = "articles"
     url = "category/articles/"
   [[languages.zh.menu.main]]
-    name = "·不日记·"
+    name = "·系列·"
     weight = 10
     identifier = "weekly"
     url = "category/weekly/"
-  [[languages.zh.menu.main]]
-    name = "·影音·"
-    weight = 40
-    identifier = "others"
-    url = "category/others/"
+ # [[languages.zh.menu.main]]
+ #   name = "·影音·"
+ #   weight = 40
+ #   identifier = "others"
+ #   url = "category/others/"
 
 
 
