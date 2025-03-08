@@ -1,35 +1,35 @@
-<?xml-stylesheet type="text/xsl" href="http://192.168.8.173:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://192.168.8.173:1313/zh/about/</loc>
+    <loc>/zh/about/</loc>
     <lastmod>2022-11-22T16:48:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://192.168.8.173:1313/zh/posts/</loc>
+    <loc>/zh/posts/</loc>
     <lastmod>2023-01-15T11:10:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://192.168.8.173:1313/zh/</loc>
+    <loc>/zh/</loc>
     <lastmod>2023-01-15T11:10:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://192.168.8.173:1313/zh/categories/</loc>
+    <loc>/zh/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://192.168.8.173:1313/zh/tags/</loc>
+    <loc>/zh/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

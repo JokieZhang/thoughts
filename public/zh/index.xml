@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>麦田守望者</title>
-    <link>http://192.168.8.173:1313/zh/</link>
+    <link>/zh/</link>
     <description>Recent content on 麦田守望者</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 15 Jan 2023 11:10:14 +0800</lastBuildDate>
     
-    <atom:link href="http://192.168.8.173:1313/zh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
