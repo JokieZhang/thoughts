@@ -4,7 +4,8 @@
     <title>Categories on 麦田守望者</title>
     <link>/en/categories/</link>
     <description>Recent content in Categories on 麦田守望者</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
