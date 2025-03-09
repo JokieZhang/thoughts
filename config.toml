@@ -136,11 +136,11 @@ defaultContentLanguageInSubdir = true
   #  identifier = "others"
   #  url = "category/others/"
  
- [[languages.en.menu.main]]
-   name = "About Me"
-   weight = 40
-   identifier = "about"
-   url = "category/about/"
+# [[languages.en.menu.main]]
+#   name = "About Me"
+#   weight = 40
+#   identifier = "about"
+#   url = "category/about/"
   [[languages.en.menu.social]]
     name = "GitHub"
     weight = 10
@@ -177,11 +177,11 @@ defaultContentLanguageInSubdir = true
  #   weight = 40
  #   identifier = "others"
  #   url = "category/others/"
-  [[languages.zh.menu.main]]
-    name = "·关于·"
-    weight = 40
-    identifier = "about"
-    url = "category/about/"
+#  [[languages.zh.menu.main]]
+ #   name = "·关于·"
+ #   weight = 40
+ #   identifier = "about"
+ #   url = "category/about/"
   [[languages.zh.menu.social]]
     name = "GitHub"
     weight = 10
